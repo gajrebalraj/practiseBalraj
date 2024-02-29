@@ -1,0 +1,139 @@
+body{
+    background-color:rgb(167, 135, 198);
+}
+
+body:hover{
+    background-color: yellowgreen;
+
+}
+hr{
+    background-color:#E8A0BF;
+    border-style: dotted none none none;
+    border-width: 5px;
+}
+hr:hover{
+    background-color: yellowgreen;
+}
+
+img{ 
+    border-radius: 100px;
+    height: 5cm;
+    width: 5cm;
+}
+img:hover{
+    border-radius: 50px;
+    height: 10cm;
+    width: 10cm;
+}
+#heading{
+    color: rgb(20, 20, 19);
+}
+#heading:hover{
+    color: yellow;
+}
+#heading:hover{
+    background-color: red;
+}
+.balraj:hover{
+    background-color: blueviolet;
+}
+.balraj:hover{
+    color: rgb(69, 178, 214);
+}
+.narsing:hover{
+    background-color: rgb(227, 212, 212);
+}
+.surekha:hover{
+    background-color: blueviolet;
+}
+.address:hover{
+    background-color: blueviolet;
+}
+.id:hover{
+    background-color:blueviolet ;
+}
+.e:hover{
+    background-color: brown;
+}
+.school:hover{
+    background-color: brown;
+}
+.inter:hover{
+        background-color: brown;
+}
+.degree:hover{
+    background-color: brown;
+}
+.S:hover{
+    background-color: rgb(50, 220, 152);
+}
+.m:hover{
+    background-color: rgb(50, 220, 152);
+}
+.ms:hover{
+    background-color: rgb(50, 220, 152);
+}
+.mss:hover{
+    background-color: rgb(50, 220, 152);
+}
+.w:hover{
+    background-color: rgb(36, 14, 6);
+}
+.y:hover{
+    background-color: chocolate;
+}
+.c:hover{
+    background-color: chocolate;
+}
+.l:hover{
+    background-color: chocolate;
+}
+.a:hover{
+    color: rgb(226, 226, 239);
+}
+.b:hover{
+    color: rgb(226, 226, 239);
+}
+.c:hover{
+    color: rgb(226, 226, 239);
+}
+.lag:hover{
+    background-color: darkmagenta;
+}
+.x:hover{
+    background-color: darkmagenta;
+}
+.o:hover{
+    background-color: darkmagenta;
+}
+.z:hover{
+    background-color: darkmagenta;
+}
+.n:hover{
+    background-color: darkmagenta;
+}
+.da:hover{
+    background-color: tomato;
+}
+.tr:hover{
+    background-color: tomato;
+}
+.si:hover{
+    background-color: tomato;
+}
+.li:hover{
+    background-color: tomato;
+}
+.wa:hover{
+    background-color: tomato;
+}
+.mp:hover{
+    color: #E8A0BF;
+}
+.page:hover{
+    color: #E8A0BF;
+}
+
+form:hover{
+    color: rgb(176, 16, 16);
+}
